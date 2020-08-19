@@ -234,7 +234,7 @@ button.main-button {
 button.main-button:hover {
   color: #fff;
   background-color: #5fb759;
-}
+  }
 
 button.main-button-icon {
   border: none;
